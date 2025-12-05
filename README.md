@@ -1,4 +1,3 @@
-# [Сайт Dota 2.html](https://github.com/user-attachments/files/23964798/Dota.2.html)
 <!DOCTYPE html>
 <html lang="ru">
 <head>
